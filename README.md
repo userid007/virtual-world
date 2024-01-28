@@ -8,4 +8,4 @@ Virtual Environment Built Using HTML, CSS and JavaScript.
 
 Added functionality to create the spatial graph
 
-[link](userid007.github.io/virtual-world)
+[link](https://userid007.github.io/virtual-world/)
